@@ -1,5 +1,8 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hslqqd&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/hslqqd@naver.com-03C75A?style=flat-square&logo=Android&logoColor=white"/>
+
+
+
 <!--
 **kei1202/kei1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hslqqd&show_icons=true&theme=radical)
