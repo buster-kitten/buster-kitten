@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/hslqqd@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buster-kitten&show_icons=true&theme=cobalt
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buster-kitten&show_icons=true&theme=cobalt)
 
 <!--
 **kei1202/kei1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
