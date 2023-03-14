@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/hslqqd@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hslqqd&show_icons=true&theme=radical)
 
 
 <!--
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hslqqd&show_icons=true&theme=radical)
+
