@@ -3,6 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buster-kitten&show_icons=true&theme=solarized-light)
 
+github-readme-stats.vercel.app/api/top-langs/?username={buster-kitten}&langs_count=8
+
 <!--
 **kei1202/kei1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
